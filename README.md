@@ -1,9 +1,9 @@
 # 👋 Sonal Wadkar / Sonal-wadkar
 
-Welcome to my GitHub profile! Hi, I'm Sonal Wadkar. I am a student in software engineering. My specializations include full-stack development, prompt engineering, and SEO. Further down, you will find some collaborations of projects and open-source contributions.
+Welcome to my GitHub profile! Hi, I'm Sonal Wadkar. I am a Computer Engineering student. Below, you will find some project collaborations and open-source contributions.
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Java, C, C++, C#, Android App Development
 
 
 ## 🔗 Repository Overview
@@ -11,14 +11,14 @@ Javascript, HTML, CSS...
 
 | Project Name | Description     | Tech Stack                |
 | :----------- | :------- | :------------------------- |
-| HistoryScope | AI-powered historical travel guide | HTML , CSS , React |
+| HistoryScope | AI-powered historical travel guide | Java, Android XML |
 
 ## 🤝 Contribution & Collaboration
 
-I'm always open to collaboration! Feel free to reach out if you'd like to work together, have ideas, or have feedback.
+I'm always open to collaboration! Let me know if you'd like to work together or have ideas or feedback.
 
 ## 📫 How to reach me...
 
-Mail: sonalw292006.official@gmail.com
+Mail: sonalw292006@gmail.com
 
 LinkedIn: 
